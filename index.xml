@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EricJoraskie</title>
+    <link>https://.ericjoraskie.com/</link>
+    <description>Recent content on EricJoraskie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://.ericjoraskie.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://.ericjoraskie.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://.ericjoraskie.com/about/</guid>
+      <description>My name is Eric Joraskie, and I am a computer science graduate student at Northeastern University.
+I&amp;rsquo;ve had an unusual path into CS. After majoring in neuroscience at Northwestern University (and loving it), I worked in a few roles that left me longing for more intellectual stimulation. After much introspection and experientation, it became clear that computer science could offer me a route to solving complex problems I found interesting and cared about.</description>
+    </item>
+    
+    <item>
+      <title>Athletics</title>
+      <link>https://.ericjoraskie.com/athletics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://.ericjoraskie.com/athletics/</guid>
+      <description>Although I enjoying being althletic and I was a full scholarship athlete, please don&amp;rsquo;t ask me any questions about sports because I don&amp;rsquo;t follow any and won&amp;rsquo;t know the answers.
+  I do care about physical and mental health though and worked as a personal trainer (ACSM-CPT, although I let it lapse) and cycling instructor (Schwinn Indoor Cycling Cert) for NU Recreation after I medically retired from football. I currently serve as the defacto personal trainer for all of my close friends.</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://.ericjoraskie.com/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://.ericjoraskie.com/blog/</guid>
+      <description>coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://.ericjoraskie.com/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://.ericjoraskie.com/photography/</guid>
+      <description>I&amp;rsquo;ve been fascinated with photography since I was a kid.*
+Luckily for me, my high school had a TV Studio extracurricular that gave me the opportunity to spend a lot of time using DSLRs, shoulder-mount video cameras and a few different professional photo and video editing softwares, so I was able to get a reasonable amount of practice fairly early on.
+Now I mainly use a DJI Mavic Air 2, a Sony Cybershot that is a few years old but still great, and I have a Rylo (r.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://.ericjoraskie.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://.ericjoraskie.com/projects/</guid>
+      <description>I&amp;rsquo;ve written a lot of code and enjoy writing code, so that volume is growing. That being said, I&amp;rsquo;m relatively selective about what I keep in a public repository. Here are a couple of projects that I&amp;rsquo;ve worked on with links to what is available. I will update this page as I make more code available on github.
+ Othello   Optical Escape  </description>
+    </item>
+    
+    <item>
+      <title>Reading List</title>
+      <link>https://.ericjoraskie.com/readinglist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://.ericjoraskie.com/readinglist/</guid>
+      <description>I read a lot.
+It&amp;rsquo;s usually nonfiction but I&amp;rsquo;ve included some of my favorite novels too. Here is a quick list of eight of my favorites I&amp;rsquo;d be willing to risk my recommendation reputation on.
+I&amp;rsquo;ve linked them all to their page on Goodreads and the authors are linked to the best info source I could quickly find.
+I&amp;rsquo;m actually not really a fan of Goodreads (mainly their webpage design; I think their pages are very cluttered), but I figured it was better than linking directly to Amazon, although I understand it&amp;rsquo;s only really one additional step.</description>
+    </item>
+    
+  </channel>
+</rss>
