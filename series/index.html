@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Language" content="en">
     
-      <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src self https://www.youtube.com/embed/; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com; prefetch-src 'self';">
+      <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self' https://www.youtube.com/embed/ https://w.soundcloud.com/player/; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com; prefetch-src 'self';">
     
 
     <meta name="author" content="Eric Joraskie">
@@ -32,7 +32,6 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
-    <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.1.7" as="font" type="font/woff2" crossorigin>
 
     
       
@@ -61,21 +60,13 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
 
     <link rel="alternate" type="application/rss+xml" href="/series/index.xml" title="Eric Joraskie" />
-    
-      <script defer src="https://twemoji.maxcdn.com/v/13.0.1/twemoji.min.js"
-        integrity="sha384-5f4X0lBluNY/Ib4VhGx0Pf6iDCF99VGXJIyYy7dDLY5QlEd7Ap0hICSSZA1XYbc4" crossorigin="anonymous"></script>
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"></script>
-    <meta name="generator" content="Hugo 0.68.3" />
-  </head>
+    </head>
 
   
   
     
   
-  <body class="colorscheme-dark"
-        onload=" twemoji.parse(document.body); "
-  >
+  <body class="colorscheme-dark">
     
 
     <main class="wrapper">
@@ -101,15 +92,19 @@
             </li>
           
             <li class="navigation-item">
+              <a class="navigation-link" href="/athletics/">Athletics</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/music/">Music</a>
+            </li>
+          
+            <li class="navigation-item">
               <a class="navigation-link" href="/photography/">Photography</a>
             </li>
           
             <li class="navigation-item">
               <a class="navigation-link" href="/readinglist/">Reading List</a>
-            </li>
-          
-            <li class="navigation-item">
-              <a class="navigation-link" href="/athletics/">Athletics</a>
             </li>
           
         

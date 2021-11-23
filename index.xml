@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>About Me</title>
+      <title>About</title>
       <link>https://ericjoraskie.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -37,6 +37,16 @@ However, I do enjoy being an athlete. For fun, here is my high school highlight 
       
       <guid>https://ericjoraskie.com/blog/</guid>
       <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://ericjoraskie.com/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericjoraskie.com/music/</guid>
+      <description>During my freshman year at Northwestern (2013), I became interested in digital music production.
+I purchased a MIDI device, the M-Audio Keystation Mini 32, because it was the cheapest and smallest one I could find, and it came with a simple software called Ignite, which I used to make loops. I was gifted a copy of Sony ACID Music studio (a Digital Audio Workstation) and developed a process where after creating instrumental loops in Ignite, I would open them in ACID to polish them into a full piece.</description>
     </item>
     
     <item>
