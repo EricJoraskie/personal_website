@@ -1,61 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ericjoraskie.com/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/athletics/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/blog/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/music/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/readinglist/othersuggestedreads/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/photography/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/readinglist/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/series/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ericjoraskie.com/videography/</loc>
   </url>
-  
 </urlset>

@@ -5,11 +5,7 @@
     <link>https://ericjoraskie.com/</link>
     <description>Recent content on Eric Joraskie</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://ericjoraskie.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://ericjoraskie.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://ericjoraskie.com/about/</link>
